@@ -2,12 +2,6 @@
 
 Chess-themed tour budget calculator for Bangladesh tourist spots.
 
-## Run
-Needs PHP 7.4+ (8.x recommended).
-    cd bd-tour-budget
-    php -S localhost:8000
-Open http://localhost:8000 (or copy the folder into XAMPP's htdocs).
-
 ## How it works
 1. Pick start district -> 2. destination -> 3. transport (only routes that really exist) ->
 4. tourist spots (multi-select) -> 5. average hotel/food/local costs shown -> 6. days, travellers, comfort ->
